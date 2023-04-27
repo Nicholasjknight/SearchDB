@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    font-family: arial;
+    z-index: 1;
+}
+
+.article-container {
+    height: 50vh;
+    width: 50vw;
+    background-color: black;
+    padding: 30px;
+    color: white;
+}
+
+.article-box {
+    padding-bottom: 30px;
+    width: 80%;
+    color: white;
+
+}
+
+input {
+    color: black;
+    padding: 0px 20px;
+    width: 300px;
+    height: 40px;
+    font-size: 22px;
+
+}
+button {
+    width: 100px;
+    height: 40px;
+    font-size: 22px;
+    color: black;
+}
+h1 {
+    color: white;
+}
